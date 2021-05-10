@@ -6,7 +6,7 @@ try {
         document.write(num1 ? "The Greatest num is " + num1 : " ")
     }
 
-    else if (num2 > num3 && num2 > num1) {
+    else if (num2 > num3) {
         document.write(num2 ? "The Greatest num is " + num2 : " ")
     } else {
         document.write(num3 ? "The Greatest num is " + num3 : " ")
